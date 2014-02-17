@@ -55,5 +55,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tokuhirom/Localizer-Scanner-Xslate/issues"
+      },
+      "homepage" : "https://github.com/tokuhirom/Localizer-Scanner-Xslate",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tokuhirom/Localizer-Scanner-Xslate.git",
+         "web" : "https://github.com/tokuhirom/Localizer-Scanner-Xslate"
+      }
+   },
    "version" : "0.01"
 }
