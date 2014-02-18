@@ -5,8 +5,7 @@ use Test::More;
 use File::Spec;
 use File::Temp;
 
-# We should split this plugin from the core dist.
-use Test::Requires 'Text::Xslate';
+use Text::Xslate;
 use Localizer::Scanner::Xslate;
 
 my $result = Localizer::Dictionary->new();
